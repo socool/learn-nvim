@@ -9,10 +9,10 @@
 Neovim คือ PDE(Personalized development environment) หรือ IDE บน commandlind ถูก folk มาจาก vim โดยมีการเชื่อมต่อกับ LSP client และ luat api สําหรับการกําหนดค่าและการสร้าง plugin.
 เพื่อช่วยในการเชื่อมต่อกับ lua.nvim มีชุมชนที่หลากหลาย [plugin ecosystem](https://github.com/rockerBOO/awesome-neovim) ซึ่งช่วยให้เราออกแบบได้ถูกต้อง,ทนทาน, ขยายและเปลี่ยนแปลงได้
 
-## I already know vim I just want to learn nvim
+## ฉันรู้จัก vim แล้วต้องการเรียนรู้ nvim
 
-Great, you can skip half the guide :) \
-Read [Chapter 8 - Personal Config vs Preconfigured Configuration](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#personal-config-vs-preconfigured-configuration) go back to [Chapter 2](https://ofirgall.github.io/learn-nvim/chapters/02-basic-config.md) and then skip to [Chapter 8 - Basic Lua](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#basic-lua).
+เยี่ยม คุณสามารถข้าม steps ไปได้ครึ่งนึง :) \
+อ่าน [Chapter 8 - Personal Config vs Preconfigured Configuration](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#personal-config-vs-preconfigured-configuration) กลับไปยัง [Chapter 2](https://ofirgall.github.io/learn-nvim/chapters/02-basic-config.md) แล้วข้ามไปยัง [Chapter 8 - Basic Lua](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#basic-lua).
 
 # Why did I write this guide?
 
