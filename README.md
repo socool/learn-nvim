@@ -14,13 +14,13 @@ Neovim คือ PDE(Personalized development environment) หรือ IDE บ�
 เยี่ยม คุณสามารถข้าม steps ไปได้ครึ่งนึง :) \
 อ่าน [Chapter 8 - Personal Config vs Preconfigured Configuration](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#personal-config-vs-preconfigured-configuration) กลับไปยัง [Chapter 2](https://ofirgall.github.io/learn-nvim/chapters/02-basic-config.md) แล้วข้ามไปยัง [Chapter 8 - Basic Lua](https://ofirgall.github.io/learn-nvim/chapters/08-advanced-config.html#basic-lua).
 
-# Why did I write this guide?
+# ทำไมฉันถึงเขียนไกด์นี้?
 
-I started to use nvim in early 2022 after using sublime for about 6 years, I felt sublime was left behind pluginwise and it's not really competing with the features VSCode had to offer, I tried to use VSCode and after a week I understood it's not fitting for me, as it forced me to use my mouse more than often. I decided to give nvim a try, and it ended up as the best decision I made.
+ฉันเริ่มใช้ nvim เมื่อต้น 2022 หลังจากใช้ sublime มา 6 ปี,ฉันรู้สึกว่า sublime ในส่วนของ plugin ค่อนข้างล้าหลัง ซึ่งเมื่อเทียบกันกับ feature ที่ VSCode,ฉันพยายามใช้งาน VSCode อยู่ซักอาทิตย์นึงแล้วได้เข้าใจว่ามันไม่ค่อยเหมาะกับฉัน, ฉันรู้สึกว่ามันบังคับให้ฉันใช้เม้าส์บ่อยเกินไป.ฉันเลยตัดสินใจมาลอง nvim ซึ่งเป็นการตัดสินใจที่ดีที่สุด.
 
-I didn't understand where to start from, should I learn vim first? how do I configure nvim? which plugins from the many many plugins do I need to use?
+ฉันไม่รู้จะเริ่มต้นยังไง,ควรต้องเรียนรู้ vim ก่อนไหม? จะทำการคอนฟิก nvim ยังไง? แล้วปลั๊กอินจากอันไหนที่เยอะมากมายที่ฉันต้องลง?
 
-I wanted to make a guide that covers the basics of vim, gives the tools to learn vim (the fishing rod instead of the fish), and one that helps you to configure nvim.
+ฉันต้องการสร้างไกด์เครอบคลุมการใช้งานพื้นฐานของ vim,ให้ tools ที่ใช้ในการเรียนรู้ vim(ให้เบ็ดตกปลา แทนที่ปลา), และอีกอันคือช่วยคุณในการกำหนดค่า nvim.
 
 ---
 
