@@ -26,6 +26,6 @@ Neovim คือ PDE(Personalized development environment) หรือ IDE บ�
 
 # The book
 
-If you find mistakes while reading make sure to let me know at the [issues section](https://github.com/ofirgall/learn-nvim/issues) or create a PR and become a contributor!
+ถ้าคุณอ่านแล้วเจอข้อผิดพลาดสามารถสร้าง issues ได้ที่ [socool/learn-nvim](https://github.com/socool/learn-nvim) หรือ สร้าง PR มาเป็น contributor ด้วยกัน
 
-## [Start reading here](https://ofirgall.github.io/learn-nvim/)
+## [เริ่มอ่านได้ตรงนี้](https://socol.github.io/learn-nvim/)
