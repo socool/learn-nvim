@@ -3,20 +3,21 @@
 ในฐานะมืออาชีพ, คุณต้องใช้เวลามากมายกับคอมพิวเตอร์ของคุณ,โดยเฉพาะการแก้ไขโค้ด.คุณต้องทำมันด้วยความสนุกและมีประสิทธิภาพที่สุด.
 nvim มันสนุก: สนุกในการเรียนรู้,สนุกในการเขียน,ในการปรับปรุงและสุดท้าย - มันมีประสิทธิภาพมากมาย.
 
-#### You can use vim with any keyboard
+#### คุณสามารถใช้ vim ด้วยตีย์บอร์ดอะไรก็ได้
 
-vim gives you the option to use only the basic keyboard keys: the alphabetical keys, ctrl, alt, shift, escape, enter. \
-You don't need to find where is end, pageup/down and home each time you switch a keyboard/laptop.
+vim ให้ตัวเลือกคุณในการเลือกใช้คีย์ง่ายๆ บนคีย์บอร์ด: คีย์ตัวอักษร, ctrl, alt, shift, escape, enter. \
+คุไม่ต้องห่วงว่า end มันอยู่ตรงไหน,pageup/down และ home เพื่อเปลี่ยนระหว่าง keyboard และ laptop.
 
-If you can type on a keyboard, you can use vim the way you're used to.
+ถ้าคุณเคยพิมพ์บนคีย์บอร์ด,คุณสามารถใช้ vim ในแนวทางที่คุณคุ้นเคย.
 
-#### Keep your hands on the keyboard
+#### ให้มือของคุณอยู่บนคีย์บอร์ด
 
-vim can be used without a mouse at all, and it's even recommended to use it this way, as it will "force" you to stay in the "flow" while programming without needing to move your hand over to the mouse and back to the keyboard.
+vim สามารถใช้งานโดยปราศจากเม้าส์,และที่ควรจะเป็นก็คือให้ใช้งานแบบนั้นแหละแบบไม่มีเม้าส์.ให้เหมือนกับว่ามี "พลังงาน" บังคับให้มือของคุณอยู่บนคีย์บอร์ด.
+และคุณอยู่กับ "คลื่น" ในขณะโปรแกรมโดยไม่ต้องการให้มือของคุณขยับไปใช้งานเม้าส์และกลับไปที่คีย์บอร์ด.
 
-vim is designed to be used with [type touching](https://www.ratatype.com/static/i/learn/keyboard/en/keyboard.webp).\
-The important binds are on/next to the keys your hands should always be on: `asdf jkl;`. \
-It isn't a must to touch type (I don't touch type 100%) but I recommend trying to switch anyways.
+vim ถูกออกแบบมาให้ใช้งานกับ [type touching](https://www.ratatype.com/static/i/learn/keyboard/en/keyboard.webp).\
+ส่วนสำคัญคือให้มือของคุณอยู่นแป้นพิมพ์: `asdf jkl;`. \
+และมันไม่จำเป็นต้องใช้งาน touch type (ฉันไม่ใช้ touch type 100%) แต่แนะนำให้ลองใช้งานก็ได้.
 
 ##### Disclaimer
 
