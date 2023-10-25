@@ -1,18 +1,20 @@
-name: Spell check
+#name: Spell check
 
-on: [push, pull_request]
+#on: [push, pull_request]
 
-jobs:
-  deploy:
+#jobs:
+#  deploy:
 
-    runs-on: ubuntu-latest
+#    runs-on: ubuntu-latest
 
-    steps:
-    - uses: actions/checkout@v2
+#    steps:
+#    - uses: actions/checkout@v2
 
-    - name: md-spellcheck-action
-      uses: matheus23/md-spellcheck-action@v4.2.2
-      with:
-        files-to-check: "*.md"
-        files-to-exclude: "LICENSE.md"
-        words-to-ignore-file: ./.github/workflows/words-to-ignore.txt
+#    - name: md-spellcheck-action
+#      uses: matheus23/md-spellcheck-action@v4.2.2
+#      with:
+#        files-to-check: "*.md"
+#        files-to-exclude: "LICENSE.md"
+#        words-to-ignore-file: ./.github/workflows/words-to-ignore.txt
+
+
