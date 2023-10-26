@@ -26,22 +26,22 @@ vim ถูกออกแบบมาให้ใช้งานกับ [type 
 ผมใช้เม้าส์ในการ "อ่าน" โค้ด,และส่วนตัวพบว่ามันสะดวกทีเดียว. \
 ผมใช้เม้าส์เพื่อแสดงให้คนอื่นเห็นในเครื่องของผมเพื่อเค้าจะได้ทำตามได้.
 
-#### The right way to program
+#### หนทางที่ถูกต้องในการโปรแกรม
 
-It's a strong saying but I'm convinced that `nvim` is the right way to program.
+ผมพูดได้ว่า `nvim` คือหนทางที่ถูกต้องในการโปรแกรม.
 
-When you're using vim, you "talk" to the editor rather than "move" it. \
-Imagine, instead of asking your friend to pour you a glass of water, you would give instructions to your friend on how to pour you a glass of water, which would look like something like this:
+เมื่อคุณใช้งาน vim, คุณ"คุย" กับมันไม่ใช่ "เคลื่อน" มัน.\
+จินตนาการตามน่ะ, แทนที่คุณจะถามเพื่อนคุณให้เทน้ำลงแก้ว,คุณกับให้คำสั่งแก่เพื่อนคุณคือ วิธีการในการเทน้ำลงแก้วซึ่งหน้าตาเป็นแบบนี้:
 
-1. Open the bottle
-1. Grab the glass
-1. Grab the bottle
-1. Make an angle with the bottle towards the glass
-1. Put down the bottle
-1. Close the bottle
+1. เปิดขวด
+2. หยิบแก้วมา
+3. หยิบขวดมา
+4. ทำให้มุมของขวดตรงกับแก้ว
+5. วางขวด
+6. ปิดขวด
 
-Wouldn't it be easier to just say "Hey, can you pour me glass of water?"
-Well, that how it feels to use other editors after you're using vim, vim lets you "talk" to the editor.
+มันไม่ง่ายกว่าหรือในการที่จะพูดว่า "เฮ้,เทน้ำให้ฉันซักแก้วหน่อย?"
+อืม, ก็เป็นความรู้สึกในการใช้อิดิเตอร์ตัวอื่นหลังจากใช้งาน vim, vim ให้คุณ "คุย" กับมัน.
 
 #### Feel "at home" everywhere
 
