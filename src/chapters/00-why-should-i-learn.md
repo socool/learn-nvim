@@ -19,12 +19,12 @@ vim ถูกออกแบบมาให้ใช้งานกับ [type 
 ส่วนสำคัญคือให้มือของคุณอยู่นแป้นพิมพ์: `asdf jkl;`. \
 และมันไม่จำเป็นต้องใช้งาน touch type (ฉันไม่ใช้ touch type 100%) แต่แนะนำให้ลองใช้งานก็ได้.
 
-##### Disclaimer
+##### คำชี้แจง
 
-You can use a mouse. \
-I configured a mouse to allow "guests" to show me stuff in my workstation. \
-I use a mouse to **read** code, personally I find it more convenient. \
-I use a mouse when showing someone in my workstation so they can follow along.
+คุณใช้เม้าส์ได้. \
+ผมตั้งค่าเม้าส์เพื่อให้ "เดา" แสดงสิ่งต่างๆในเครื่องของผม. \
+ผมใช้เม้าส์ในการ "อ่าน" โค้ด,และส่วนตัวพบว่ามันสะดวกทีเดียว. \
+ผมใช้เม้าส์เพื่อแสดงให้คนอื่นเห็นในเครื่องของผมเพื่อเค้าจะได้ทำตามได้.
 
 #### The right way to program
 
