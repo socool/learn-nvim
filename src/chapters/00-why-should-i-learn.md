@@ -43,13 +43,12 @@ vim ถูกออกแบบมาให้ใช้งานกับ [type 
 มันไม่ง่ายกว่าหรือในการที่จะพูดว่า "เฮ้,เทน้ำให้ฉันซักแก้วหน่อย?"
 อืม, ก็เป็นความรู้สึกในการใช้อิดิเตอร์ตัวอื่นหลังจากใช้งาน vim, vim ให้คุณ "คุย" กับมัน.
 
-#### Feel "at home" everywhere
+#### รู้สึก "เหมือนอยู่บ้าน" ในทุกๆ ที่
 
-Most TUIs programs support `vim` binds which will make you feel fast in any program that you usually use, `less`, `man`, `tmux` and many more.
+ส่วนมาก TUIs (terminal user interface) โปรแกรมรองรับ `vim` ได้โดยทำให้คุณรู้สึกสะดวกกับโปรแกรมต่างๆที่เคยใช้, `less`, `man`, `tmux` และอื่นๆ.
+คุณจะรู้สึก "เหมือนอยู่บ้าน" ในเบราเซอร์ด้วย, กับปลั๊กอิน [vimium extension](https://addons.mozilla.org/he/firefox/addon/vimium-ff/)
 
-You can feel "at home" in browsers too, with the [vimium extension](https://addons.mozilla.org/he/firefox/addon/vimium-ff/)
-
-Edit files through `ssh` with ease
+แก้ไขไฟล์ผ่าน `ssh` และอื่นๆ
 
 #### Lightweight and Native
 
