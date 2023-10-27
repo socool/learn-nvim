@@ -55,13 +55,13 @@ vim ถูกออกแบบมาให้ใช้งานกับ [type 
 nvim มันเบา,รันอย่างรวดเร็ว,แสดงผลเร็วและมีปลั๊กอินมากมาย โดยปลั๊กอินเหล่านั้นรันผ่านเนทีพไบนารีเพื่อรันงานที่หนักๆ ได้.\
 ตัวอย่าง, ค้นหาข้อความทั้งโปรเจ็ค [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) รัน [ripgrep](https://github.com/BurntSushi/ripgrep).
 
-#### Rich plugin ecosystem
+#### แวดล้อมไปด้วยปลั๊กอินต่างๆ
 
-nvim has a huge community that develops plugins for everything you can and can't imagine. \
-nvim doesn't miss on any IDE feature that other IDEs have to offer. \
-nvim plugins are the first to "evolve" when a new tech is coming to the IDE world, the nvim community is the first to adapt it, e.g: ripgrep
+nvim มีชุมชนที่ใหญ่ที่มีการพัฒนาปลั๊กอินต่างๆ ที่คุณคาดไม่ถึงเลยทีเดียว.\
+nvim ไม่พลาดฟีเจอร์ต่างที่ IDE อื่นๆมีให้.\
+nvim ปลั๊กอินจะเป็นที่แรกในการ "วิวัฒน์" เมื่อมีเทคโนโลยีใหม่เข้าในโลกของ IDE, ชุมชนของ nvim จะเป็นที่แรกที่นำมันมาใช้ เช่น ripgrep
 
-You can take a look at the [awesome nvim plugin list](https://github.com/rockerBOO/awesome-neovim). I recommend to "watch" to get updates about new plugins.
+คุณสามารถดูได้ที่ [awesome nvim plugin list](https://github.com/rockerBOO/awesome-neovim). แนะนำให้ "จับตา" เพื่อดูอัพเดตต่างๆเกี่ยวกับปลั๊กอินใหม่ๆ.
 
 #### Be comfortable
 
