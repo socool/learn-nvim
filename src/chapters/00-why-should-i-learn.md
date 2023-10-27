@@ -63,12 +63,12 @@ nvim ปลั๊กอินจะเป็นที่แรกในการ
 
 คุณสามารถดูได้ที่ [awesome nvim plugin list](https://github.com/rockerBOO/awesome-neovim). แนะนำให้ "จับตา" เพื่อดูอัพเดตต่างๆเกี่ยวกับปลั๊กอินใหม่ๆ.
 
-#### Be comfortable
+#### สะดวกสบาย
 
-nvim is basically a framework for an editor, it can't do much without plugins but it gives the user the ability to configure the editor in a way they're most comfortable with.
-
-Imagine sitting on a chair you built exactly to your size. The back rest covers all of your back, the head rest is exactly in the right height and has the perfect shape to support your head and neck. The arm rests match exactly the height of your desk, and the chair is at the perfect height for your legs. \
-This is how I feel when I code in nvim, I sit in a chair I build exactly for my needs, and I can keep improve the way I code because I can improve the way my editor works.
+nvim เป็นเฟรมเวิร์คพื้นฐานสำหรับเอดิเตอร์, มันทำอะไรมากไม่ค่อยได้ถ้าไม่มีปลั๊กอินแต่มันให้ผู้ใช้งานตั้งค่าเอดิเตอร์ในแนวทางต่างๆ ที่สะดวกสบาย.
+จินตนาการว่าคุณกำลังนั่งเก้าอี้ที่มันเข้าตัวกับคุณแบบพอดีเป๊ะ.พนักพิงด้านหลังเข้ากันพอดีกับหลังคุณ,ที่รองหัวมีความกว้างพอดีกับหัวและรองรับทั้งคอของคุณ.
+ที่พักแขนมีขนาดที่สูงพอดีกับโต๊ะ,เก้าอี้ก็มีความสูงพอดีกับขาของคุณ.\
+นั่นแหละมันคือความรู้สึกเพื่อคุณโค้ดบน nvim,ผมนั่งบนเก้าอี้ที่สร้างขึ้นมาพอดีเข้ากับความต้องการของผม,และทำให้ผมพัฒนาวิธีการในการโค้ดเพราะผมพัฒนาแนวทางตามที่อดิเตอร์พัฒนาไป.
 
 ---
 
