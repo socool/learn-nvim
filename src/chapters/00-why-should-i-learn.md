@@ -50,10 +50,10 @@ vim ถูกออกแบบมาให้ใช้งานกับ [type 
 
 แก้ไขไฟล์ผ่าน `ssh` และอื่นๆ
 
-#### Lightweight and Native
+#### เบาและเนทีพ
 
-nvim is lightweight, starts up fast, renders fast and a lot of the plugins tend to use a strong native binary to run the heavyweight tasks. \
-For example, to search for text across the project [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) runs [ripgrep](https://github.com/BurntSushi/ripgrep).
+nvim มันเบา,รันอย่างรวดเร็ว,แสดงผลเร็วและมีปลั๊กอินมากมาย โดยปลั๊กอินเหล่านั้นรันผ่านเนทีพไบนารีเพื่อรันงานที่หนักๆ ได้.\
+ตัวอย่าง, ค้นหาข้อความทั้งโปรเจ็ค [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) รัน [ripgrep](https://github.com/BurntSushi/ripgrep).
 
 #### Rich plugin ecosystem
 
