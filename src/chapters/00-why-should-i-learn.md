@@ -84,8 +84,9 @@ nvim เรียนรู้ได้ยาก - ใช้เวลาและ
 
 ---
 
-# Neovim Requires Time
+# Neovim ต้องการเวลา
 
-Neovim requires a lot of time learning additional to the learning curve you will have to make bunch of configurations other than the nvim config itself, terminal, nerdfont, plugins, etc, it might be not for you.
+Neovim ต้องการเวลาเป็นจำนวนมากในการเรียนรู้สิ่งต่างๆ เพื่อเพิ่มประสบการณ์ในการเรียนรู้คุณต้องแก้ไขคอนฟิกต่างๆ มากมายนอกจากคอนฟิกของ nvim เอง,
+terminal เอย nerdfont เอย plugins และอื่นๆ อีกมากมายซึ่งก็อาจจะไม่ได้ทำมาเพื่อคุณ
 
-If you are 100% dedicated to learn and use neovim. I strongly recommend to start backing up your work environment config with some kind of dotfiles framework. I use [dotbot](https://github.com/anishathalye/dotbot).
+ถ้าคุณต้องการที่เรียนรู้ nvim และใช้มันแน่นอน 100%.ผมแนะนำให้เริ่มจากสำรองข้อมูลค่าคอนฟิกต่างๆ ที่คุณใช้งานไว้ก่อนด้วยพวก dotfiles เฟรมเวิร์ด.ซึ่งผมใช้อยู่ [dotbot](https://github.com/anishathalye/dotbot).
