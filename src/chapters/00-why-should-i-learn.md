@@ -72,15 +72,15 @@ nvim เป็นเฟรมเวิร์คพื้นฐานสำหร
 
 ---
 
-# How should I start use nvim?
+# แล้วจะเริ่มยังไง
 
-nvim has a steep learning curve - it takes time and patience to master, you will find that you need to invest time so you can **start** using nvim as your daily driver.
+nvim เรียนรู้ได้ยาก - ใช้เวลาและความอดทนกว่าจะเชี่ยวขาญ, คุณสามารถสิ่งที่คุณต้องการและเริ่มลงทุนเวลาโดยคุณ **เริ่ม** ใช้ nvim ให้ได้ในทุกๆวัน
+ถ้าคุณเป็นโปรแกรมเมอร์มืออาชีพ ผมแนะนำใช้คุณเริ่มใช้มันกับโปรเจ็คส่วนตัว และค่อยๆเชื่อมต่ออย่าง**ช้าๆ** กับโฟลวงานของคุณ.  
+ผมเริ่มมันโดยเปิดเอดิเตอร์เก่า (Sublime Text) และเปิดเอดิเตอร์ใหม่ (Neovim) ไปด้วยกัน.
 
-If you are a professional programmer I recommend to start using it in your personal projects and integrate it slowly to your professional workflow. I did it by having my previous editor (Sublime Text) open while nvim was open too.
+ผมเริ่มโดยลองทำแอคชั่นเบสิคด้วย nvim และย้ายไปยัง sublime เมื่อต้องการทำอะไรที่มันซับซ้อนขึ้น ผมเริ่มติดในการใช้งานกับ nvim. หลังจากผมเริ่มคุ้นเคยกับฟังชันการใช้งานทั่วๆไป,ผมเริ่มลองอะไรที่มันซับซ้อนมากขึ้นกับ nvim, บางครั้งผมเริ่มจัดการสิ่งต่างๆ บางครั้งก็มีผิดพลาดเหมือนกันและกลับมาใช้ submit. อย่างไรก็ตามผมเริ่มรู้สึกสะดวกสบายมากขึ้นกับ nivm และเริ่มติดอยู่กับมันทั้งวี่ทั้งวัน.
 
-I started by trying to do simple actions with nvim and moving to sublime when I needed to do complicated stuff that I struggled to do with nvim. After I got comfortable with basic functionality, I started trying to do more complex actions with nvim, sometimes I managed to yet sometimes I also failed and went back to sublime. Eventually I felt more comfortable with nvim and stuck with it all day long.
-
-The bottom line is that it'll take time and effort but eventually it will be worth it, for me it sparked the old feeling of learning how to edit your code, and I still feel it every day.
+ท้ายที่สุด คือมันใช้เวลาและพลังงานแต่แล้วมันก็คุ้ม, สำหรับผมมันสปาร์คความรู้สึกเก่าๆ ของการเรียนรู้ในการแก้ไขโค้ดอะไรซักอย่าง,และก็รู้สึกอย่างนั้นในทุกๆ วัเก่าๆ ของการเรียนรู้ในการแก้ไขโค้ดอะไรซักอย่าง,และก็รู้สึกอย่างนั้นในทุกๆ วัน.น
 
 ---
 
