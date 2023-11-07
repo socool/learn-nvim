@@ -6,13 +6,13 @@
 - **สปลิต/วินโดว์** - `สปลิต` หรือ `วินโดว์` คือหน้าต่างที่คุณย้ายไปมาได้
 - **แท็บ** - `แท็บ` คือชุดของ `สปลิต`, ที่เหมือน `แท็บ` ใน `เทอร์มินอล`, คนไม่ค่อยใช้มันบ่อยมากนัก
 
-##### Binds
+##### ผูก
 
-- `:e <file>` - will open a new file (buffer)
-- `:b <buffer>` - will switch to an already opened file (buffer)
-- `:vsplit` - will open a vertical split
-- `:split` - will open a horizontal split
-- use `:help tab-page` to read more about tabs (they're not very necessary)
+- `:e <file>` - จะเปิดไฟล์ใหม่ (buffer)
+- `:b <buffer>` - จะเปลี่ยนไปยังไฟล์ที่เปิดไว้แล้ว (buffer)
+- `:vsplit` - จะเปิดสปลิตหน้าจอเป็นแนวตั้ง
+- `:split` - จะเปิดสปลิตหน้าจอเป็นแนวนอน
+- ใช้ `:help tab-page` ในการอ่านรายละเอียดเกี่ยวกับแท็บ (ซึ่งไม่ค่อยจำเป็นเท่าไหร่)
 
 ## Keybinds
 
