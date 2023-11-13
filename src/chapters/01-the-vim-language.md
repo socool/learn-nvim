@@ -8,23 +8,24 @@
 
 ##### ผูก
 
-- `:e <file>` - จะเปิดไฟล์ใหม่ (buffer)
-- `:b <buffer>` - จะเปลี่ยนไปยังไฟล์ที่เปิดไว้แล้ว (buffer)
+- `:e <file>` - จะเปิดไฟล์ใหม่ (บัฟเฟอร์)
+- `:b <buffer>` - จะเปลี่ยนไปยังไฟล์ที่เปิดไว้แล้ว (บัฟเฟอร์)
 - `:vsplit` - จะเปิดสปลิตหน้าจอเป็นแนวตั้ง
 - `:split` - จะเปิดสปลิตหน้าจอเป็นแนวนอน
 - ใช้ `:help tab-page` ในการอ่านรายละเอียดเกี่ยวกับแท็บ (ซึ่งไม่ค่อยจำเป็นเท่าไหร่)
 
-## Keybinds
+## ผูกคีย์
 
-Often you'll see a keybind described as something like that: `ggyG` - which copies the entire `buffer`. \
-All the signs in the keybind are meant to be pressed as you `type` them. \
-To execute this bind you'll need to press:
+บ่อยครั้งที่คุณน่าจะเคยเห็นการผูกคีย์ ประมาณ: `ggyG` - ซึ่งเป็นการคัดลอกทั้งหมดใน `บัฟเฟอร์`.\
+สัญญลักษ์นั้นหมายถึงการผูกคีย์ นั่นหมายถึง การ กด เหมือนกับคุณ `พิมพ์` มัน. \
+ในการเรียกใช้งานคีย์ที่ผูกไว้แล้ว มีขั้นตอนดังนี้:
 
-- `gg` - move to the top of the file
-- `y` - start a copy
-- `shift+g` - end the copy from the cursor to the end of the file
+- `gg` - เลื่อนเคอร์เซอร์ไปยังบนสุดของไฟล์
+- `y` - เริ่มคัดลอก
+- `shift+g` - สิ้นสุดการคัดลอดจากตำแหน่งเคอร์เซอร์ที่อยู่จุดสิ้นสุดของไฟล์
 
-In vim you don't hold the keys in order to complete a key sequence as you type them, and you can configure the `timeoutlen` to make vim wait more/less between keystrokes.
+ใน vim คุณต้องไม่ต้องกดคีย์ค้างไว้ตามลำดับการกดของคีย์ที่คุณพิมพ์, และคุสามารถตั้งค่ามันได้ที่ `timeoutlent`
+เพื่อให้ vim รอ มากขึ้น/น้อยลง ระว่างคีย์สโต้คได้.
 
 ### Keybinds naming
 
