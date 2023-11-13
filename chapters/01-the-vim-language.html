@@ -180,22 +180,23 @@
 </ul>
 <h5 id="ผูก"><a class="header" href="#ผูก">ผูก</a></h5>
 <ul>
-<li><code>:e &lt;file&gt;</code> - จะเปิดไฟล์ใหม่ (buffer)</li>
-<li><code>:b &lt;buffer&gt;</code> - จะเปลี่ยนไปยังไฟล์ที่เปิดไว้แล้ว (buffer)</li>
+<li><code>:e &lt;file&gt;</code> - จะเปิดไฟล์ใหม่ (บัฟเฟอร์)</li>
+<li><code>:b &lt;buffer&gt;</code> - จะเปลี่ยนไปยังไฟล์ที่เปิดไว้แล้ว (บัฟเฟอร์)</li>
 <li><code>:vsplit</code> - จะเปิดสปลิตหน้าจอเป็นแนวตั้ง</li>
 <li><code>:split</code> - จะเปิดสปลิตหน้าจอเป็นแนวนอน</li>
 <li>ใช้ <code>:help tab-page</code> ในการอ่านรายละเอียดเกี่ยวกับแท็บ (ซึ่งไม่ค่อยจำเป็นเท่าไหร่)</li>
 </ul>
-<h2 id="keybinds"><a class="header" href="#keybinds">Keybinds</a></h2>
-<p>Often you'll see a keybind described as something like that: <code>ggyG</code> - which copies the entire <code>buffer</code>. <br />
-All the signs in the keybind are meant to be pressed as you <code>type</code> them. <br />
-To execute this bind you'll need to press:</p>
+<h2 id="ผูกคีย"><a class="header" href="#ผูกคีย">ผูกคีย์</a></h2>
+<p>บ่อยครั้งที่คุณน่าจะเคยเห็นการผูกคีย์ ประมาณ: <code>ggyG</code> - ซึ่งเป็นการคัดลอกทั้งหมดใน <code>บัฟเฟอร์</code>.<br />
+สัญญลักษ์นั้นหมายถึงการผูกคีย์ นั่นหมายถึง การ กด เหมือนกับคุณ <code>พิมพ์</code> มัน. <br />
+ในการเรียกใช้งานคีย์ที่ผูกไว้แล้ว มีขั้นตอนดังนี้:</p>
 <ul>
-<li><code>gg</code> - move to the top of the file</li>
-<li><code>y</code> - start a copy</li>
-<li><code>shift+g</code> - end the copy from the cursor to the end of the file</li>
+<li><code>gg</code> - เลื่อนเคอร์เซอร์ไปยังบนสุดของไฟล์</li>
+<li><code>y</code> - เริ่มคัดลอก</li>
+<li><code>shift+g</code> - สิ้นสุดการคัดลอดจากตำแหน่งเคอร์เซอร์ที่อยู่จุดสิ้นสุดของไฟล์</li>
 </ul>
-<p>In vim you don't hold the keys in order to complete a key sequence as you type them, and you can configure the <code>timeoutlen</code> to make vim wait more/less between keystrokes.</p>
+<p>ใน vim คุณต้องไม่ต้องกดคีย์ค้างไว้ตามลำดับการกดของคีย์ที่คุณพิมพ์, และคุสามารถตั้งค่ามันได้ที่ <code>timeoutlent</code>
+เพื่อให้ vim รอ มากขึ้น/น้อยลง ระว่างคีย์สโต้คได้.</p>
 <h3 id="keybinds-naming"><a class="header" href="#keybinds-naming">Keybinds naming</a></h3>
 <p>You don't need to memorize keybinds as the letter stands for its action.</p>
 <ul>
